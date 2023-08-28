@@ -13,10 +13,11 @@
     </h2>
     <p>
       With ARTIFICIAL INTELLIGENCE Coding can be useful in developing AI systems that analyze medical images and assist with diagnosis. 
-      Coding can be used to develop algorithms that help identify the best treatments for individual patients based on their specific genetic makeup and medical history.
-      We all know that data is analyzed in hospitals but it become a long process which is mostly time consuming due to a lot of pupils but with coding technology it can be used 
+      Coding can be used to develop algorithms that help identify the best treatments for individual patients based on their specific genetic makeup and medical 
+      history.
+      We all know that data is analyzed in hospitals but it become a long process which is mostly time consuming due to a lot of pupils but with coding technology it 
+      can be used 
       to analyze large data sets from medical studies and clinical trials, helping to identify patterns and correlations 
-
       AND life is easier that WAY!!!!
     </p>
   </body>
